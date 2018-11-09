@@ -1,0 +1,40 @@
+info.BLAMOS.2018-10-30.23:40:49.45."BOOTUP_SUCCESFULL" 
+info.BLAMOS.2018-10-30.23:44:17.26."BOOTUP_SUCCESFULL" 
+info.BLAMOS.2018-10-30.23:46:30.54."BOOTUP_SUCCESFULL" 
+info.BLAMOS.2018-10-30.23:46:49.58."BOOTUP_SUCCESFULL" 
+criticalevent.BLAMOS.2018-10-30.23:48:02.37."SYSTEM_CRASH" 
+info.BLAMOS.2018-11-02.15:18:17.92."BOOTUP_SUCCESFULL" 
+info.BLAMOS.2018-11-07.15:06:11.69.The system started up successfully on 2018-11-07 at 15:06:11.69 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:06:11.69
+info.BLAMOS.2018-11-07.15:06:13.87.The system started up successfully on 2018-11-07 at 15:06:13.86 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:06:13.86
+info.BLAMOS.2018-11-07.15:06:15.79.The system started up successfully on 2018-11-07 at 15:06:15.78 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:06:15.78
+info.BLAMOS.2018-11-07.15:07:23.71.The system started up successfully on 2018-11-07 at 15:07:23.71 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:07:23.71
+info.BLAMOS.2018-11-07.15:07:25.08.The system started up successfully on 2018-11-07 at 15:07:25.08 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:07:25.08
+info.BLAMOS.2018-11-07.15:07:26.11.The system started up successfully on 2018-11-07 at 15:07:26.10 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:07:26.10
+info.BLAMOS.2018-11-07.15:07:27.61.The system started up successfully on 2018-11-07 at 15:07:27.61 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:07:27.61
+info.BLAMOS.2018-11-07.15:16:29.59.The system started up successfully on 2018-11-07 at 15:16:29.58 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:16:29.58
+info.BLAMOS.2018-11-07.15:16:30.90.The system started up successfully on 2018-11-07 at 15:16:30.88 
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:16:30.88
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:18:11.77
+[BLAMOS] [info] The system started up successfully on 2018-11-07 at 15:18:13.41
+[BLAMOS] [critical] "SYSTEM_CRASH"
+[BLAMOS] [critical] "SYSTEM_CRASH"
+[BLAMOS] [critical] "SYSTEM_CRASH"
+[BLAMOS] [critical] "SYSTEM_CRASH"
+[kernel] [ERROR] Unexpected escape from main loop, killing BlamOS
+[kernel] [ERROR] Unexpected escape from main loop, killing BlamOS
+[kernel] [INFO] The BlamOS Kernel is starting up...
+[kernel] [INFO] The BlamOS Kernel is starting up...
+[kernel] [INFO] The BlamOS Kernel is starting up...
+[kernel] [INFO] The BlamOS Kernel is starting up...
+[kernel] [INFO] The BlamOS Kernel is starting up...
+[kernel] [INFO] The BlamOS Kernel is starting up...
+[kernel] [INFO] The BlamOS Kernel is starting up...
+[kernel] [INFO] The BlamOS Kernel is starting up...

@@ -1,0 +1,8 @@
+@echo off
+set /p f=File to monitor:
+set /p t=Update Time ^(in seconds^):
+:a
+cls
+type %f%
+timeout /t %t% >nul
+goto a

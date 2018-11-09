@@ -1,0 +1,21 @@
+@echo off
+:start
+set /p file=Music to Play ^(MP3 ONLY^!^):
+if %file%==import goto import
+( echo Set Sound = CreateObject("WMPlayer.OCX.7"^)
+  echo Sound.URL = "%file%"
+  echo Sound.Controls.play
+  echo do while Sound.currentmedia.duration = 0
+  echo wscript.sleep 100
+  echo loop
+  echo wscript.sleep (int(Sound.currentmedia.duration^)+1^)*1000) >sound.vbs
+start /min sound.vbs
+
+:import
+cls
+set appdir=%CD%
+set /p dfi=Directory to search: 
+cd %dfi%
+copy *.mp3 %appdir%
+cls
+goto start
